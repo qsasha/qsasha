@@ -6,11 +6,11 @@
 ## About me
 
 Hi! I'm qsasha and i'm a tool/discord bots developer!
+Discord : qs4sh
 
 ## Stats
 
 ![qsasha's GitHub stats](https://github-readme-stats.vercel.app/api?username=qsasha&show_icons=true&theme=radical&border_radius=30)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qsasha&layout=pie&theme=radical&border_radius=30)
 
 ## Skills
