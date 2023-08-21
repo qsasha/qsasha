@@ -10,7 +10,7 @@ Discord : qs4sh
 
 ## Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api?/top-langs/?username=qsasha\&layout=pie\&theme=radical\&border_radius=30)
+![Top Langs](https://github-readme-stats.vercel.app/api?/top-langs/?username=qsasha\&layout=pie&theme=radical&border_radius=30)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qsasha\&layout=donut&theme=radical&border_radius=30)
 ## Skills
 Javascript, Python, TypeScript, a bit of HTML and CSS
