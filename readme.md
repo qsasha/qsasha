@@ -11,7 +11,7 @@ Discord : qs4sh
 ## Stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api?/top-langs/?username=qsasha&layout=pie&theme=radical&border_radius=30)
-![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=anuraghazra\&show_icons=true\&theme=dark#gh-dark-mode-only)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/top-langs/api?username=qsasha\&show_icons=true\&theme=transparent)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qsasha\&layout=donut&theme=radical&border_radius=30)
 ## Skills
