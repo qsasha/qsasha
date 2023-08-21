@@ -11,6 +11,8 @@ Discord : qs4sh
 ## Stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api?/top-langs/?username=qsasha&layout=pie&theme=radical&border_radius=30)
+![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=anuraghazra\&show_icons=true\&theme=dark#gh-dark-mode-only)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qsasha\&layout=donut&theme=radical&border_radius=30)
 ## Skills
 Javascript, Python, TypeScript, a bit of HTML and CSS
